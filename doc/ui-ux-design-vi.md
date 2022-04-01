@@ -127,16 +127,14 @@ Thay vào đó chúng ta có thể sự dụng màu sắc và độ đậm nhạ
 
 Hãy cố gắng sử dụng 2 đến 3 màu với ý nghĩa như sau:
 
-\\n* Màu tối cho nội dung chính (như tiêu đề của bài viết)
-\\n* Màu xám cho nội dung thứ cấp (như ngày bài báo được xuất bản)
-\\n\* Màu xám nhạt hơn cho nội dung cấp ba (có thể là thông báo bản quyền ở chân trang)
-\\n
+* Màu tối cho nội dung chính (như tiêu đề của bài viết)
+* Màu xám cho nội dung thứ cấp (như ngày bài báo được xuất bản)
+* Màu xám nhạt hơn cho nội dung cấp ba (có thể là thông báo bản quyền ở chân trang)
 
 Tương tự có thể sử dụng 2 font-weight là đủ cho một UI tốt:
 
-\\n* Bình thường (400 hoặc 500 tùy thuộc vào phông chữ) cho hầu hết văn bản
-\\n* Đậm hơn (600 hoặc 700) cho văn bản bạn muốn nhấn mạnh
-\\n
+* Bình thường (400 hoặc 500 tùy thuộc vào phông chữ) cho hầu hết văn bản
+* Đậm hơn (600 hoặc 700) cho văn bản bạn muốn nhấn mạnh
 
 ### Không sử dụng màu xám cho khi có màu nền
 
@@ -150,7 +148,7 @@ Cách tối ưu cho trường hợp này là chọn màu the same hue, sau đó 
 
 Thay vì nhấn mạnh chúng, có thể làm giảm độ quan trọng những phần tử xung quanh chúng
 
-![Học cách nhấn mạnh](assets/img/ui/14.png)\\n![Học cách nhấn mạnh](assets/img/ui/15.png)
+![Học cách nhấn mạnh](assets/img/ui/14.png)![Học cách nhấn mạnh](assets/img/ui/15.png)
 
 Trường hơn này thanh bên không quan trọng có thể để chúng lẫn vào background
 
@@ -162,11 +160,11 @@ Vì nó sẽ gây khó khăn cho việc phân cấp dữ liệu, và nhấn mạ
 
 Và không nhất thiết phải dùng lab vì một số định dạng đã nói lên ý nghĩa của chúng tỷ dụ như email, hay số điện thoại,..
 
-![Hạn chế dùng label](assets/img/ui/17.png)\\n![Hạn chế dùng label](assets/img/ui/18.png)
+![Hạn chế dùng label](assets/img/ui/17.png)![Hạn chế dùng label](assets/img/ui/18.png)
 
 Hoặc có thể kết hợp label với value
 
-![Hạn chế dùng label](assets/img/ui/19.png)\\n![Hạn chế dùng label](assets/img/ui/20.png)
+![Hạn chế dùng label](assets/img/ui/19.png)![Hạn chế dùng label](assets/img/ui/20.png)
 
 Đôi khi phải dùng thì hãy nên dùng chúng như một đối tượng thứ cấp
 
@@ -316,11 +314,10 @@ Lý do là vì đơn vị em nó không thực sự scale mà nó còn bị ản
 
 ### Chọn một font chữ tốt
 
-\\n* Sự lựa chọn an toàn: `-apple-system, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue;`
-\\n* Bỏ qua những font chữ có weight ít hơn 5
-\\n* Hãy tin vào số đông
-\\n* Kiểm tra font chữ các trang khác nếu như bạn thích chúng
-\\n
+* Sự lựa chọn an toàn: `-apple-system, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue;`
+* Bỏ qua những font chữ có weight ít hơn 5
+* Hãy tin vào số đông
+* Kiểm tra font chữ các trang khác nếu như bạn thích chúng
 
 ### Kiểm soát độ dài text
 
