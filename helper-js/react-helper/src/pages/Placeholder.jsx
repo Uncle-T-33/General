@@ -1,9 +1,9 @@
 import React from "react";
-import "./App.css";
-import Box from "./Example/Box";
-import Card from "./Example/Card";
+import "./Placeholder.css";
+import Box from "../placeholder/Example/Box";
+import Card from "../placeholder/Example/Card";
 
-function App() {
+function Placeholder() {
   return (
     <div style={{ padding: "4rem" }}>
       <Box />
@@ -13,4 +13,4 @@ function App() {
   );
 }
 
-export default App;
+export default Placeholder;

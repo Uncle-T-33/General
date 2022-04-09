@@ -3,7 +3,7 @@ import PlaceholderShimmerBox from "../Components/PlaceholderShimmerBox";
 
 import "./Box.css";
 
-const Box = (props) => {
+const Box = () => {
   return (
     <PlaceholderShimmerBox classes="content">
       <div class="parent"></div>
