@@ -1,8 +1,9 @@
-# Index
+<h1> Index </h1>
 
 - [Download #1](#download-1)
 - [Download #2](#download-2)
 - [Shopee filter sale 1k](#shopee-filter-sale-1k)
+- [The one true exception handler](#the-one-true-exception-handler)
 
 <br />
 
@@ -197,4 +198,14 @@
 >
 > // Chờ từ 3-5s để các request done hết, sau đó gõ vào Console:
 > // copy(itemInfo.join("\n\n"))
+> ```
+
+## [The one true exception handler](#index)
+
+> ```javascript
+> try {
+>   // something
+> } catch (e) {
+>   window.location.href="https://stackoverflow.com/search?q="+e.message
+> }
 > ```
